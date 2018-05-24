@@ -32,8 +32,7 @@ class SoundManager : NSObject, AVAudioPlayerDelegate {
     "mp3",
     "wav"
   ]
-private let fruitName = [
-    "avocado.wav","carrot.wav","cherries.wav","corn.wav","grapes.wav","lemon.wav","orange.wav","pumpkin.wav","raspberry.wav","strawberry.wav"
+private let fruitName = ["avocado.wav","carrot.wav","cherries.wav","corn.wav","grapes.wav","lemon.wav","orange.wav","pumpkin.wav","raspberry.wav","strawberry.wav"
     
     ]
 
